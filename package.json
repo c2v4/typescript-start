@@ -1,0 +1,30 @@
+{
+  "name": "typescript-start",
+  "version": "1.0.0",
+  "description": "TypeScript starting project",
+  "contributors": [
+  ],
+  "scripts": {
+    "postinstall": "npm run typings install && gulp",
+    "start": "gulp serve",
+    "typings": "typings"
+  },
+  "license": "ISC",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "browser-sync": "^2.12.5",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-debug": "^2.1.2",
+    "gulp-inject": "^4.0.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-tslint": "^5.0.0",
+    "gulp-typescript": "^2.13.0",
+    "typescript": "^1.8.10",
+    "typings": "^0.8.1",
+    "superstatic": "^4.0.2",
+    "tslint": "^3.8.1"
+  }
+}
