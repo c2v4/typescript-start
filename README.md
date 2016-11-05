@@ -11,6 +11,7 @@ In order to start run in the root directory:
 * npm install
 * typings install
 * gupl serve
+
 Leave the console with `gulp serve` running and change the files within.
 
 When you want to add a js library run the following:
