@@ -8,8 +8,8 @@ Prerequisites:
 npm install -g gulp tsd typescript
 
 In order to start run in the root directory:
-* npm install
 * typings install
+* npm install
 * gupl serve
 
 Leave the console with `gulp serve` running and change the files within.

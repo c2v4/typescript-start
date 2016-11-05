@@ -1,1 +1,1 @@
-alert("typescript-start"); 
+alert('typescript-start'); 
